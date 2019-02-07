@@ -1,0 +1,11 @@
+.actionMessage {
+    list-style: none;
+    color: #419641;
+    border: thin green solid;
+}
+
+.errorMessage {
+    list-style: none;
+    color: red;
+    border: thin red solid;
+}
